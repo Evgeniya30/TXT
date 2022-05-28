@@ -1,0 +1,8 @@
+name: name_bug 
+description: description bug  
+environment: environment
+playback_steps: playback steps
+result:result
+expected_result: expected result
+attachment: Attachment
+

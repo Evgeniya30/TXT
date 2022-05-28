@@ -1,5 +1,0 @@
-experience: 1 year  
-education: higher education  
-skills:manual testing of websites, mobile applications
-soft_skills: flexible, hard working, outgoing, а team-plaer
-
