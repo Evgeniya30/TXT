@@ -1,0 +1,5 @@
+Murashova Evgeniya Alexandrovna
+age 51
+pets 1
+salary 50000
+
