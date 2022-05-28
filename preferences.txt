@@ -1,0 +1,5 @@
+film: Lyubov i golubi  
+Series: Shameless  
+food: ice_cream
+season: spring
+country: USA
